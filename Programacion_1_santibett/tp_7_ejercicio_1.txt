@@ -1,0 +1,18 @@
+1)
+validar datos es importante ya que evita que el 
+programa se rompa por cosas que pueda escribir el usuario
+por ejemplo si escribe alguna mayuscula donde no tenia que poner, comas, puntos, numeros, etc
+entonces validando datos guiamos a que el usuario utilize correctamente el programa
+
+2) 
+el strip borra desde los extremos de forma consecutiva, depende que le pongamos, puede ser mas de uno
+pero siempre de principio y final
+el split en cambio, separa el texto en el caracter que elijamos, suele ser "," "." " "
+
+3)
+el count, si se le da un texto separado por comas, puntos, espacios, puntos y coma, etc.
+sirve para contar cuantas veces aparece ese caracter.
+
+4)
+los espacios suelen molestar cuando validamos datos, porque si queremos acceder por ejemplo
+a indices, ese espacio cuenta como uno, por eso la importancia de acomodar lo que el usuario ingresa
