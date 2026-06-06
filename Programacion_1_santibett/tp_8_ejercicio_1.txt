@@ -1,0 +1,18 @@
+una lista: se escribe con [], puede ser modificada, guarda todo tipo de datos 
+y se puede acceder a los elementos a traves de indice.
+se usa para almacenar datos que puedan ser modificados y acceder a ellos tras indice
+
+una tupla: se escribe con (), no puede ser modificada una vez creada, guarda
+todo tipo de datos y se puede acceder a los elementos a traves de indice.
+se suele usar en fechas de nacimiento, fechas concretas o cosas que no cambien
+
+un set, se escribe con {}, puede ser modificada, no puede repetir elemntos y
+no es ordenada, por lo tanto no tiene indices.
+sirve para no repetir cosas, se usa por ejemplo si tenes una lista de ciudades,
+creas el set y te va a dar solamente las ciudades sin repetir.
+
+un diccionario se escribe con {}, puede ser modificado, tiene key y value,
+el primero es la llave y separado por : va el valor. para separar k 
+y v es con ,
+es muy usado para productos, por ejemplo para definir stock: x, 
+precio: x, etc.
